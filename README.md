@@ -18,5 +18,5 @@ algorithms.
 I created this project on Microsoft Visual Studio 2022, so creating a new empty C++ project and 
 inserting the files into the Source Files should allow the code to run in Visual Studio.
   
-I also included a makefile, so the code can run on the Unix command line. The command to run the 
+I also included a makefile, so the code can run on the Linux command line. The command to run the 
 code is `make run`.
